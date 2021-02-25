@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Export-Package: rv_msgs;version="0.3.3";uses:="actionlib_msgs,geometry
+ _msgs,org.ros.internal.message,sensor_msgs,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.rv_msgs
+Bundle-Version: 0.3.3
+Bundle-Name: rv_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1592565263000
+Import-Package: actionlib_msgs;version="[1.10,2)",geometry_msgs;versio
+ n="[1.10,2)",org.ros.internal.message,sensor_msgs;version="[1.10,2)",
+ std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_222 (AdoptOpenJDK)
+Tool: Bnd-2.1.0.20130426-122213
+

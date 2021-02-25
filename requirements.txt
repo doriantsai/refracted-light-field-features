@@ -1,0 +1,16 @@
+# a list of requirements to run the RLFF code
+
+# RLFF extraction
+MATLAB
+(toolboxes/add-ons?)
+Light Field Toolbox (v0.5)
+VLFeat (v?)
+
+# running arm + camera during experiments
+ROS
+ACRV Panda Drivers + custom ROS messages with MATLAB
+
+# SfM 
+Colmap (v?)
+Python/Numpy (for the Colmap scripts)
+ROS
